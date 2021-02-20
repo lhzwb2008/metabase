@@ -3643,7 +3643,7 @@ msgstr "你好"
 
 #: frontend/src/metabase/lib/greeting.js:7
 msgid "Greetings"
-msgstr "问候"
+msgstr "给你诚挚的问候"
 
 #: frontend/src/metabase/lib/greeting.js:8
 msgid "Good to see you"
